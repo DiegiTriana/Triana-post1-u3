@@ -47,9 +47,7 @@ Ejecutar los tests:
 mvn test
 
 ## Capturas de salida y test
-![image alt](https://github.com/DiegiTriana/Triana-post1-u3/blob/ef44261027e83bd033b26ed94a5d94666269e56a/captura%20de%20pantalla%202.png)
+![image alt](https://github.com/DiegiTriana/Triana-post1-u3/blob/ef44261027e83bd033b26ed94a5d94666269e56a/captura%20de%20pantalla.png)
 ![image alt](https://github.com/DiegiTriana/Triana-post1-u3/blob/ef44261027e83bd033b26ed94a5d94666269e56a/captura%20de%20pantalla%202.png)
 
 
-Stripe: cobro de 450000000 centavos [COP]
-Pago exitoso: true
