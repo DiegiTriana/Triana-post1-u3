@@ -46,18 +46,10 @@ mvn spring-boot:run
 Ejecutar los tests:
 mvn test
 
-## Salida esperada
+## Capturas de salida y test
+![image alt](https://github.com/DiegiTriana/Triana-post1-u3/blob/ef44261027e83bd033b26ed94a5d94666269e56a/captura%20de%20pantalla%202.png)
+![image alt](https://github.com/DiegiTriana/Triana-post1-u3/blob/ef44261027e83bd033b26ed94a5d94666269e56a/captura%20de%20pantalla%202.png)
 
-[Catalogo General] Total: 12115000.0
-  [Electronica] Total: 11900000.0
-    [Computadores] Total: 10700000.0
-      - Laptop Dell XPS 15 -- 4500000.0
-      - MacBook Air M3 -- 6200000.0
-    - Audifonos Sony WH-1000XM5 -- 1200000.0
-  [Libros Tecnicos] Total: 215000.0
-    - Clean Code - Robert Martin -- 95000.0
-    - Design Patterns - GoF -- 120000.0
 
-Procesando con: Stripe
 Stripe: cobro de 450000000 centavos [COP]
 Pago exitoso: true
